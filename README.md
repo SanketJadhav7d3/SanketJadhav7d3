@@ -1,6 +1,8 @@
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+Hello, I am Sanket
+
+* A computer science student passionate about AI
+* Also a hobbyist game developer 
 
 <div align="center">
 
