@@ -1,5 +1,6 @@
 
-Hello, I am Sanket
+# Hello, I am Sanket
+---
 
 * 📖 A computer science student passionate about AI
 * 🎮 Also a hobbyist game developer
