@@ -1,8 +1,8 @@
 
 Hello, I am Sanket
 
-* A computer science student passionate about AI
-* Also a hobbyist game developer 
+* 📖 A computer science student passionate about AI
+* 🎮 Also a hobbyist game developer
 
 <div align="center">
 
